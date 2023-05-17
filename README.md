@@ -3,7 +3,9 @@
 Merhabalar Bugün Todo Liste side bar ekledik 
 
 ------------Projenin Youtube Videosu------------
+
 https://youtu.be/yLbDiIKMzlw
+
 ------------Uygulamadan Görüntüler------------
 
 ![gitss1](https://github.com/asaffurkan/Flutter-Todo-List-Sidebar/assets/127442030/e303566f-4c32-40d7-8f89-bd7e6d249b54)
